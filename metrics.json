@@ -1,0 +1,8 @@
+{
+    "baseline_model": "Logistic Regression",
+    "baseline_macro_f1": 0.9665831244778612,
+    "test_accuracy": 0.9666666666666667,
+    "candidate_model": "KNN",
+    "candidate_status": "rejected",
+    "evaluation_metric": "macro_f1"
+}
